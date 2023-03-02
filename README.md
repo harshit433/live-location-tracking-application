@@ -1,16 +1,8 @@
-# rider_app
+# Location tracking app
 
-A new Flutter project.
+A flutter project to track live location of a device
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This is an application developed using flutter which tracks your live location. It tell you where you are by marking your current location on the map. Your location is updated at every 2 seconds. 
+This application uses OpenStreetMaps(OSM) to display live location on the map. 
